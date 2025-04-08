@@ -8,7 +8,9 @@ Este repositorio contiene el trabajo realizado para el Máster Universitario en 
 
 ## 📘 Descripción
 
-El trabajo es una sintesis del articulo Binotto et all que propone una adaptación de métricas clásicas de clasificación ordinal (como MAE y TC) para escenarios donde las clases representan **intervalos numéricos desiguales**. La idea central es que **la magnitud real del error importa** más allá de la posición ordinal.
+Este trabajo es una síntesis del artículo de Giulia Binotto y Rosario Delgado (Adapting performance metrics for ordinal classification to interval scale: length matters, Machine Learning, 2025, doi:10.1007/s10994-024-06654-4).
+
+El artículo propone una adaptación de métricas clásicas de clasificación ordinal (como MAE y TC) para escenarios donde las clases representan intervalos numéricos desiguales. La idea central es que la magnitud real del error importa, más allá de la posición ordinal. Esto se logra reemplazando la diferencia de índices por distancias reales entre intervalos, considerando además su densidad y normalizando las métricas al rango [0, 1]. Se propone también una solución al problema de los intervalos abiertos, estimando una longitud óptima para mantener la coherencia de las métricas.
 
 Entre los aspectos clave se encuentran:
 
