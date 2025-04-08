@@ -22,7 +22,7 @@ Entre los aspectos clave se encuentran:
 ## 📂 Estructura del Repositorio
 
 ```
-├── metricas_ordinales_vs_adaptadas.ipynb   # Cuaderno Jupyter con experimentos y análisis
-├── i92rigam-slides.pdf                     # Presentación de diapositivas
-├── i92rigam-doc.pdf                        # Memoria escrita (formato Springer LNCS)
+├── adapted_performance_metrics_for_oc.ipynb   # Cuaderno Jupyter con experimentos y análisis
+├── i92rigam-slides.pdf                        # Presentación de diapositivas
+├── i92rigam-doc.pdf                           # Memoria escrita (formato Springer LNCS)
 ```
