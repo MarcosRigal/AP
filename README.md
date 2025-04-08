@@ -24,5 +24,5 @@ Entre los aspectos clave se encuentran:
 ```
 ├── metricas_ordinales_vs_adaptadas.ipynb   # Cuaderno Jupyter con experimentos y análisis
 ├── i92rigam-slides.pdf                     # Presentación de diapositivas
-├── i92rigam-doc.pdf                     # Memoria escrita (formato Springer LNCS)
+├── i92rigam-doc.pdf                        # Memoria escrita (formato Springer LNCS)
 ```
