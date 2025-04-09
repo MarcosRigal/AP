@@ -1,0 +1,11 @@
+Xiaofeng Liu, Fangfang Fan, Lingsheng Kong, Zhihui Diao, Wanqing Xie, Jun Lu, Jane You,
+Unimodal regularized neuron stick-breaking for ordinal classification,
+Neurocomputing,
+Volume 388,
+2020,
+Pages 34-44,
+ISSN 0925-2312,
+https://doi.org/10.1016/j.neucom.2020.01.025.
+(https://www.sciencedirect.com/science/article/pii/S0925231220300618)
+Abstract: This paper targets for the ordinal regression/classification, which objective is to learn a rule to predict labels from a discrete but ordered set. For instance, the classification for medical diagnosis usually involves inherently ordered labels corresponding to the level of health risk. Previous multi-task classifiers on ordinal data often use several binary classification branches to compute a series of cumulative probabilities. However, these cumulative probabilities are not guaranteed to be monotonically decreasing. It also introduces a large number of hyper-parameters to be fine-tuned manually. This paper aims to eliminate or at least largely reduce the effects of those problems. We propose a simple yet efficient way to rephrase the output layer of the conventional deep neural network. Besides, in order to alleviate the effects of label noise in ordinal datasets, we propose a unimodal label regularization strategy. It also explicitly encourages the class predictions to distribute on nearby classes of ground truth. We show that our methods lead to the state-of-the-art accuracy on the medical diagnose task (e.g., Diabetic Retinopathy and Ultrasound Breast dataset) as well as the face age prediction (e.g., Adience face and MORPH Album II) with very little additional cost.
+Keywords: Ordinal regression; Deep neural network; Stick-breaking
